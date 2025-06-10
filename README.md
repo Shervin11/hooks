@@ -18,7 +18,10 @@ function Counter() {
   );
 }
 ```
-[![Название видео](https://img.youtube.com/vi/O6P86uwfdR0/maxresdefault.jpg)](https://www.youtube.com/watch?v=O6P86uwfdR0)
+<video width="600" controls>
+  <source src="https://www.youtube.com/watch?v=O6P86uwfdR0" type="video/mp4">
+  Ваш браузер не поддерживает элемент video.
+</video>
 
 ## ⚙️ useEffect
 Хук useEffect выполняет побочные эффекты в функциональных компонентах, такие как запросы к API или подписки.
