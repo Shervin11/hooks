@@ -19,7 +19,6 @@ function Counter() {
 }
 ```
 ## 🎬 Пример видео
-нажмите
 [![видео](https://img.youtube.com/vi/O6P86uwfdR0/maxresdefault.jpg)](https://www.youtube.com/watch?v=O6P86uwfdR0)
 
 ## ⚙️ useEffect
@@ -41,6 +40,9 @@ function FetchData() {
   return <div>{data ? JSON.stringify(data) : 'Загрузка...'}</div>;
 }
 ```
+## 🎬 Пример видео
+[![видео](https://img.youtube.com/vi/dH6i3GurZW8/maxresdefault.jpg)](https://www.youtube.com/watch?v=dH6i3GurZW8)
+
 ## 🖼️ useLayoutEffect
 Хук useLayoutEffect работает аналогично useEffect, но выполняется синхронно сразу после всех изменений DOM, что позволяет избежать визуальных сдвигов.
 
@@ -58,6 +60,9 @@ function LayoutEffectExample() {
   return <div>Ширина окна: {width}</div>;
 }
 ```
+## 🎬 Пример видео
+[![видео](https://img.youtube.com/vi/wU57kvYOxT4/maxresdefault.jpg)](https://www.youtube.com/watch?v=wU57kvYOxT4)
+
 ## 🔗 useRef
 Хук useRef сохраняет изменяемые значения, которые не вызывают повторный рендер компонента. Он также используется для доступа к DOM-элементам.
 
@@ -80,6 +85,9 @@ function FocusInput() {
   );
 }
 ```
+## 🎬 Пример видео
+[![видео](https://img.youtube.com/vi/t2ypzz6gJm0/maxresdefault.jpg)](https://www.youtube.com/watch?v=t2ypzz6gJm0)
+
 ## 🌐 useContext
 Хук useContext позволяет подписаться на контекст React и получать его значение.
 
@@ -103,3 +111,5 @@ function App() {
   );
 }
 ```
+## 🎬 Пример видео
+[![видео](https://img.youtube.com/vi/5LrDIWkK_Bc/maxresdefault.jpg)](https://www.youtube.com/watch?v=5LrDIWkK_Bc)
