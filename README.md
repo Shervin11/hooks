@@ -18,6 +18,8 @@ function Counter() {
   );
 }
 ```
+[!Название видео](https://www.youtube.com/watch?v=O6P86uwfdR0)
+
 ## ⚙️ useEffect
 Хук useEffect выполняет побочные эффекты в функциональных компонентах, такие как запросы к API или подписки.
 
